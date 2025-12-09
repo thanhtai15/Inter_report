@@ -1,8 +1,11 @@
 baseURL = "https://thanhtai15.github.io/Inter_report/"
-canonifyURLs = false
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
+
+# Language configuration
+defaultContentLanguage = "vi"
+defaultContentLanguageInSubdir = false
 
 # For search functionality
 [outputs]
